@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_poster: BayesComp.pdf
+url_poster: talk/BayesComp.pdf
 
 url_code:
-#url_pdf:
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).
