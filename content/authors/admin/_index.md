@@ -24,7 +24,7 @@ interests:
 - <font color="#FF5A5F"><i class="fas fa-dice-three"></i></font> Bayesian Statistics 
 - <font color="#FF5A5F"><i class="fas fa-dice-five"></i></font> Monte Carlo Methods
 - <font color="#FF5A5F"><i class="fas fa-dice-one"></i></font> Optimisation
-- <font color="#FF5A5F"><i class="fas fa-dice-two"></i></font> Information geometry
+- <font color="#FF5A5F"><i class="fas fa-dice-two"></i></font> Information Geometry
 
 education:
   courses:
