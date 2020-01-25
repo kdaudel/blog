@@ -21,10 +21,10 @@ organizations:
 bio: 
 
 interests:
-- <font color="#FF5A5F"><i class="fas fa-dice-three"></i></font> Bayesian Statistics 
-- <font color="#FF5A5F"><i class="fas fa-dice-five"></i></font> Monte Carlo Methods
-- <font color="#FF5A5F"><i class="fas fa-dice-one"></i></font> Optimisation
-- <font color="#FF5A5F"><i class="fas fa-dice-two"></i></font> Information Geometry
+- <font color="#FF5A5F"><i class="fas fa-dice-three"></i></font> &nbsp; Bayesian Statistics 
+- <font color="#FF5A5F"><i class="fas fa-dice-five"></i></font> &nbsp; Monte Carlo Methods
+- <font color="#FF5A5F"><i class="fas fa-dice-one"></i></font> &nbsp; Optimisation
+- <font color="#FF5A5F"><i class="fas fa-dice-two"></i></font> &nbsp; Information Geometry
 
 education:
   courses:
