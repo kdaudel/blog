@@ -71,9 +71,10 @@ email: ""
 #- Visitors
 ---
 
-...a second-year PhD student in the Image Data Signal (IDS) department at [Télécom Paris](https://www.telecom-paris.fr/) under the supervision of [Randal Douc](http://teukdey.free.fr/wordpress/), [François Roueff](https://perso.telecom-paristech.fr/roueff/) and [François Portier](https://sites.google.com/site/fportierwebpage/).
+...a final year PhD student in the Image Data Signal (IDS) department at [Télécom Paris](https://www.telecom-paris.fr/) under the supervision of [Randal Douc](http://teukdey.free.fr/wordpress/), [François Roueff](https://perso.telecom-paristech.fr/roueff/) and [François Portier](https://sites.google.com/site/fportierwebpage/).
 
-My current research lies in the field of Approximate Inference. In particular, I am interested in Variational Inference methods involving non-conjugate models and alternative divergence measures (such as the $f$-divergence).
+
+My current research lies in the field of Approximate Inference. In particular, I am interested in Variational Inference methods which go beyond the commonly-used parametric variational distribution framework and which involve flexible families of divergence measures (e.g. the $\alpha$-divergence family).
 
 <font color="#99C24D">Email :</font> kamelia  <font color="#99C24D">[dot]</font> daudel <font color="#99C24D">[at]</font> telecom-paris <font color="#99C24D">[dot]</font> fr
 

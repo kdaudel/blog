@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The $ f $-Divergence Expectation Iteration Scheme"
-authors: [K. Daudel, R. Douc, F. Portier and F. Roueff]
-date: 
+title: "Monotonic Alpha-divergence Minimisation"
+authors: [K. Daudel, R. Douc and F. Roueff]
+date: 2021-03-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2019-09-26T16:34:54+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "<i> Submitted</i>"
 publication_short: ""
 
 abstract: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_preprint: https://arxiv.org/abs/1909.12239
-url_pdf: https://arxiv.org/pdf/1909.12239.pdf
+url_preprint: https://arxiv.org/abs/2103.05684
+url_pdf: https://arxiv.org/pdf/2103.05684.pdf
 url_code:
 url_dataset:
 url_poster:
